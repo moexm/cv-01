@@ -1,0 +1,2 @@
+*{margin:0;padding:0;box-sizing:border-box}#div1:after,#div1:before{content:"";display:block;position:absolute}#div1{position:fixed;left:50%;transform:translateX(-50%);top:20px}@media(max-width:400px){#html{overflow:auto;height:70vh}#div1Wrapper{height:30vh}}
+/*# sourceMappingURL=/style.8e4da4bc.css.map */
